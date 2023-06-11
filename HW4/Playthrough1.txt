@@ -1,0 +1,375 @@
+Please wait for the game to initialize.
+
+Welcome to the murder mystery game!
+May luck be on your side, Anonymous!
+
+Tragedy! A murder has occurred today. mia was found dead in makeup_room after lunch break.
+Part of the film crew was staying on the film set. According to the security no one from the crew has left after the murder happened.
+They don't know about anyone not welcomed entering the set either.
+You, a detective, were called in to solve this mystery.
+Ask questions, examine places, and figure out who has done it!
+
+Type ? for help!
+examine makeup_room
+On the ground lies the body of mia, seems killed using a poison. Otherwise, normal makeup_room.
+question oliver
+Questioning oliver
+do you own poison
+No.
+stop
+You can once again do anything you wish.
+question sara
+Questioning sara
+do you own poison
+No.
+stop
+You can once again do anything you wish.
+question john
+Questioning john
+do you own poison
+No.
+stop
+You can once again do anything you wish.
+question kate
+Questioning kate
+do you own poison
+No.
+stop
+You can once again do anything you wish.
+question barry
+Questioning barry
+stop
+You can once again do anything you wish.
+question barry
+Questioning barry
+do you own poison
+Yes.
+stop
+You can once again do anything you wish.
+question ray
+Questioning ray
+do you own poison
+Yes.
+stop
+You can once again do anything you wish.
+question mike
+Questioning mike
+do you own poison
+No.
+stop
+You can once again do anything you wish.
+question thea
+Questioning thea
+do you own poison
+Yes.
+stop
+You can once again do anything you wish.
+question barry
+Questioning barry
+what is your relationship with mia
+Erm... We had quite good relationship.
+stop
+You can once again do anything you wish.
+question ray
+Questioning ray
+what is your relationship with mia
+We haven't really talked that much with each other.
+stop
+You can once again do anything you wish.
+question thea
+Questioning thea
+what is your relationship with mia
+We just started dating recently...
+stop
+You can once again do anything you wish.
+question oliver
+Questioning oliver
+tell me about mia
+I heard that sara hates mia.
+I heard that mia and thea are couple
+stop
+You can once again do anything you wish.
+question sara
+Questioning sara
+tell me about mia
+I heard that mia hates thea.
+stop
+You can once again do anything you wish.
+question john
+Questioning john
+tell me about mia
+I heard that ray hates mia.
+stop
+You can once again do anything you wish.
+question kate
+Questioning kate
+tell me about mia
+I heard that ray hates mia.
+I heard that mia and thea are couple
+stop
+You can once again do anything you wish.
+question barry
+Questioning barry
+tell me about mia
+I heard that sara and mia don't talk much.
+I heard that mia and thea are couple
+stop
+You can once again do anything you wish.
+question ray
+Questioning ray
+tell me about mia
+I don't know anything interesting about mia.
+stop
+You can once again do anything you wish.
+question thea
+Questioning thea
+tell me about mia
+I don't know anything interesting about mia.
+stop
+You can once again do anything you wish.
+debug
+MOTIVE: money
+
+MURDERER: ray
+MURDER TIME: 1400
+
+question ray
+Questioning ray
+where were you
+I was in kitchen, costume_room, stage1 and stage2.
+when were you in kitchen
+I was in the kitchen around 12:45
+I was in the kitchen around 14:00
+when were you in costume_room
+I was in the costume_room around 13:15
+I was in the costume_room around 13:45
+when were you in stage1
+I was in the stage1 from around 12:00 to approximately 12:15.
+I was in the stage1 around 13:30
+when were you in stage2
+I was in the stage2 around 12:30
+I was in the stage2 around 13:00
+stop
+You can once again do anything you wish.
+question oliver
+Questioning oliver
+where were you
+I was in stage1, trailers and outside.
+when were you in stage1
+I was in the stage1 around 12:00
+I was in the stage1 from around 12:45 to approximately 13:15.
+I was in the stage1 around 13:45
+stop
+You can once again do anything you wish.
+question sara
+Questioning sara
+where were you
+I was in bathroom, stage1, stage2 and outside.
+when were you in stage1
+I was in the stage1 around 12:00
+I was in the stage1 around 13:45
+stop
+You can once again do anything you wish.
+question john
+Questioning john
+where were you
+I was in stage1 and outside.
+stop
+You can once again do anything you wish.
+question kate
+Questioning kate
+where were you
+I was in bathroom, props_room, makeup_room and trailers.
+when were you in makeup_room
+I was in the makeup_room around 12:45
+I was in the makeup_room from around 13:15 to approximately 13:30.
+who have you seen in makeup_room
+I saw a man entering the kitchen.
+I was with mia in the makeup_room
+
+stop
+You can once again do anything you wish.
+question barry
+Questioning barry
+where were you
+I was in meeting_room, props_room, costume_room, stage1 and trailers.
+stop
+You can once again do anything you wish.
+question mike
+Questioning mike
+where were you
+I was in meeting_room, stage1, trailers and outside.
+stop
+You can once again do anything you wish.
+question thea
+Questioning thea
+where were you
+I was in stage1, stage2 and trailers.
+when were you in stage1
+I was in the stage1 around 12:00
+I was in the stage1 around 12:45
+I was in the stage1 around 13:30
+stop
+You can once again do anything you wish.
+question mike
+Questioning mike
+when were you in meeting_room
+I was in the meeting_room around 12:15
+stop
+You can once again do anything you wish.
+question barry
+Questioning barry
+where were you
+I was in meeting_room, props_room, costume_room, stage1 and trailers.
+when were you in meeting_room
+I was in the meeting_room around 12:30
+when were you in props_room
+I was in the props_room around 12:45
+when were you in costume_room
+I was in the costume_room around 13:30
+who have you seen in costume_room
+I haven't seen anyone in the costume_room
+when were you in stage1
+I was in the stage1 from around 12:00 to approximately 12:15.
+I was in the stage1 around 13:15
+I was in the stage1 around 14:00
+who have you seen in stage1
+I was with oliver in the stage1
+
+I saw a man entering the trailers.
+I saw a woman entering the stage2.
+I was with sara in the stage1
+
+I saw a woman entering the outside.
+I was with john in the stage1
+
+I saw a man entering the outside.
+I saw a woman entering the trailers.
+I was with ray in the stage1
+
+I was with mike in the stage1
+
+I saw a man entering the trailers.
+I saw a woman entering the stage2.
+I was with thea in the stage1
+
+I saw a woman entering the trailers.
+I was with mia in the stage1
+
+I saw a woman entering the trailers.
+stop
+You can once again do anything you wish.
+question thea
+Questioning thea
+where were you
+I was in stage1, stage2 and trailers.
+when were you in stage1
+I was in the stage1 around 12:00
+I was in the stage1 around 12:45
+I was in the stage1 around 13:30
+who have you seen in stage1
+I was with oliver in the stage1
+
+I saw a man entering the trailers.
+I saw someone wearing a shirt entering the stage2.
+I was with sara in the stage1
+
+I saw a woman entering the outside.
+I was with john in the stage1
+
+I saw a man entering the outside.
+I was with barry in the stage1
+
+I was with ray in the stage1
+
+I was with mike in the stage1
+
+I saw a man entering the trailers.
+I was with mia in the stage1
+
+I saw a woman entering the trailers.
+stop
+You can once again do anything you wish.
+question thea
+Questioning thea
+when were you in trailers
+I was in the trailers from around 12:15 to approximately 12:30.
+I was in the trailers from around 13:45 to approximately 14:00.
+who have you seen in trailers
+I saw a man entering the stage1.
+I was with oliver in the trailers
+
+I saw a man entering the outside.
+I saw a woman entering the stage1.
+I saw a woman entering the outside.
+I saw a man entering the stage1.
+I saw a man entering the outside.
+I was with kate in the trailers
+
+I saw a man entering the stage1.
+I was with barry in the trailers
+
+I saw a man entering the stage1.
+I saw a man entering the stage1.
+I was with mike in the trailers
+
+I saw a woman entering the stage1.
+I was with mia in the trailers
+
+stop
+You can once again do anything you wish.
+question oliver
+Questioning oliver
+when were you in trailers
+I was in the trailers around 12:15
+I was in the trailers around 13:30
+I was in the trailers around 14:00
+who have you seen in trailers
+I saw a woman entering the outside.
+I saw a man entering the stage1.
+I saw a man entering the outside.
+I was with kate in the trailers
+
+I saw a man entering the stage1.
+I saw a man entering the stage1.
+I was with mike in the trailers
+
+I saw a woman entering the stage1.
+I was with thea in the trailers
+
+I was with mia in the trailers
+
+stop
+You can once again do anything you wish.
+question mike
+Questioning mike
+when were you in trailers
+I was in the trailers around 12:45
+I was in the trailers around 13:30
+I was in the trailers around 14:00
+who have you seen in trailers
+I saw a man entering the stage1.
+I was with oliver in the trailers
+
+I saw a woman entering the outside.
+I saw a man entering the stage1.
+I saw a man entering the outside.
+I was with kate in the trailers
+
+I saw a man entering the stage1.
+I saw a man entering the stage1.
+I saw a woman entering the stage1.
+I was with thea in the trailers
+
+I was with mia in the trailers
+
+stop
+You can once again do anything you wish.
+accuse ray
+You have accused ray! Let's see if they're the murderer!
+.
+.
+.
+Good job, Anonymous! You have accused the actual murderer!
+It only took you 88 steps.
+Thanks for playing!

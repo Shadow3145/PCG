@@ -1,0 +1,5 @@
+repo: 0cd28d9af2f50a54df467ea59f81fc0188891579
+node: a3f19582efd529f9d1046dd743b0a95ea7a3d632
+branch: default
+latesttag: artist_1
+latesttagdistance: 43

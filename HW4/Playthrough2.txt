@@ -1,0 +1,200 @@
+Please wait for the game to initialize.
+
+Welcome to the murder mystery game!
+May luck be on your side, Anonymous!
+
+Tragedy! A murder has occurred today. barry was found dead in costume_room after lunch break.
+Part of the film crew was staying on the film set. According to the security no one from the crew has left after the murder happened.
+They don't know about anyone not welcomed entering the set either.
+You, a detective, were called in to solve this mystery.
+Ask questions, examine places, and figure out who has done it!
+
+Type ? for help!
+examine costume_room
+On the ground lies the body of barry, seems killed using a bat. Otherwise, normal costume_room.
+question oliver
+Questioning oliver
+do you own bat
+No.
+tell me about barry
+I heard that thea and barry are lovers
+stop
+You can once again do anything you wish.
+question sara
+Questioning sara
+do you own bat
+No.
+tell me about barry
+I don't know anything interesting about barry.
+stop
+You can once again do anything you wish.
+question john
+Questioning john
+do you own bat
+No.
+tell me about barry
+I don't know anything interesting about barry.
+stop
+You can once again do anything you wish.
+question kate
+Questioning kate
+do you own bat
+No.
+tell me about barry
+I heard that barry hates sara.
+I heard that john and barry are couple
+I heard that mike and barry are lovers
+stop
+You can once again do anything you wish.
+question ray
+Questioning ray
+do you own bat
+No.
+tell me about barry
+I heard that mike and barry are lovers
+stop
+You can once again do anything you wish.
+question mike
+Questioning mike
+do you own bat
+Yes.
+tell me about barry
+I don't know anything interesting about barry.
+what is your relationship with barry
+We haven't really talked that much with each other.
+stop
+You can once again do anything you wish.
+question thea
+Questioning thea
+do you own bat
+Yes.
+tell me about barry
+I heard that mike and barry are lovers
+what is your relationship with barry
+Erm... We had quite good relationship.
+stop
+You can once again do anything you wish.
+question mia
+Questioning mia
+do you own bat
+Yes.
+tell me about barry
+I heard that thea and barry are lovers
+what is your relationship with barry
+Erm... We had quite good relationship.
+stop
+You can once again do anything you wish.
+question john
+Questioning john
+what is your relationship with barry
+We just started dating recently...
+question thea
+Invalid command! Please type '?' for help.
+stop
+You can once again do anything you wish.
+question thea
+Questioning thea
+where were you
+I was in makeup_room, technical_room, stage1 and outside.
+when were you in makeup_room
+I was in the makeup_room around 12:15
+I was in the makeup_room around 12:45
+I was in the makeup_room around 13:45
+when were you in technical_room
+I was in the technical_room around 13:30
+I was in the technical_room around 14:00
+when were you in stage1
+I was in the stage1 around 12:00
+I was in the stage1 around 13:15
+when were you outside
+Invalid command! Please type '?' for help.
+when were you in outside
+I was in the outside around 12:30
+I was in the outside around 13:00
+stop
+You can once again do anything you wish.
+question mike
+Questioning mike
+where were you
+I was in kitchen, trailers and outside.
+when were you in kitchen
+I was in the kitchen around 14:00
+when were you in trailers
+I was in the trailers around 12:00
+I was in the trailers around 12:30
+I was in the trailers from around 13:15 to approximately 13:30.
+when were you in outside
+I was in the outside around 12:15
+I was in the outside from around 12:45 to approximately 13:00.
+I was in the outside around 13:45
+stop
+You can once again do anything you wish.
+question mia
+Questioning mia
+where were you
+I was in bathroom, stage1, stage2, trailers and outside.
+when were you in bathroom
+I was in the bathroom around 13:00
+when were you stage1
+Invalid command! Please type '?' for help.
+when were you in stage1
+I was in the stage1 around 12:00
+I was in the stage1 around 13:30
+when were you in stage2
+I was in the stage2 around 12:15
+I was in the stage2 around 12:45
+I was in the stage2 around 13:15
+when were you in trailers
+I was in the trailers around 13:45
+when were you in outside
+I was in the outside around 12:30
+I was in the outside around 14:00
+stop
+You can once again do anything you wish.
+question oliver
+Questioning oliver
+where were you
+I was in bathroom, props_room, makeup_room, stage1 and outside.
+when were you in bathroom
+I was in the bathroom around 12:15
+I was in the bathroom around 12:45
+when were you in props_room
+I was in the props_room around 13:30
+when were you in makeup_room
+I was in the makeup_room around 12:00
+I was in the makeup_room around 13:15
+when were you in stage1
+I was in the stage1 around 13:00
+I was in the stage1 around 13:45
+when were you outside
+Invalid command! Please type '?' for help.
+when were you in outside
+I was in the outside around 12:30
+I was in the outside around 14:00
+stop
+You can once again do anything you wish.
+question sara
+Questioning sara
+where were you
+I was in bathroom, meeting_room, props_room, stage1 and stage2.
+when were you in bathroom
+I was in the bathroom around 13:30
+when were you in meeting_room
+I was in the meeting_room around 13:45
+when were you in props_room
+I was in the props_room around 14:00
+who have you seen in props_room
+I was with ray in the props_room
+
+I saw a woman entering the technical_room.
+stop
+You can once again do anything you wish.
+
+accuse mike
+You have accused mike! Let's see if they're the murderer!
+.
+.
+.
+Good job, Anonymous! You have accused the actual murderer!
+It only took you 70 steps.
+Thanks for playing!

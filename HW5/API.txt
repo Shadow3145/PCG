@@ -1,0 +1,11 @@
+// mapa
+var map = areaBuilder.getBlocks();
+areaBuilder.getWidth();
+areaBuilder.getHeight();
+
+// její předání do funkce
+private boolean areaSplitting(List<Room> rooms, ObservableMap<Position3D, GameBlock> map)
+
+// vložení zdi, smazání zdi
+map.put(Position3D.create(x, y, 0), new Wall());
+map.put(Position3D.create(x, y, 0), new Floor());

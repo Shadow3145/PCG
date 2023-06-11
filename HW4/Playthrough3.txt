@@ -1,0 +1,101 @@
+Please wait for the game to initialize.
+
+Welcome to the murder mystery game!
+May luck be on your side, Anonymous!
+
+Tragedy! A murder has occurred today. mia was found dead in technical_room after lunch break.
+Part of the film crew was staying on the film set. According to the security no one from the crew has left after the murder happened.
+They don't know about anyone not welcomed entering the set either.
+You, a detective, were called in to solve this mystery.
+Ask questions, examine places, and figure out who has done it!
+
+Type ? for help!
+examine technical_room
+On the ground lies the body of mia, seems killed using a knife. Otherwise, normal technical_room.
+question oliver
+Questioning oliver
+do you own knife
+No.
+tell me about mia
+I heard that mia hates thea.
+stop
+You can once again do anything you wish.
+question sara
+Questioning sara
+do you own knife
+No.
+tell me about mia
+I heard that oliver and mia are lovers
+I heard that mike and mia are lovers
+stop
+You can once again do anything you wish.
+question john
+Questioning john
+do you own knife
+Yes.
+tell me about mia
+I don't know anything interesting about mia.
+what is your relationship with mia
+We haven't really talked that much with each other.
+stop
+You can once again do anything you wish.
+question kate
+Questioning kate
+do you own knife
+No.
+tell me about mia
+I heard that mike and mia are lovers
+what is your relationship with mia
+We were good friends with mia. It is horrible what happened.
+stop
+You can once again do anything you wish.
+question barry
+Questioning barry
+do you own knife
+No.
+tell me about mia
+I heard that mia hates thea.
+I heard that john hates mia.
+I heard that oliver and mia are lovers
+what is your relationship with mia
+We haven't really talked that much with each other.
+stop
+You can once again do anything you wish.
+question ray
+Questioning ray
+do you own knife
+No.
+tell me about mia
+I heard that mia hates thea.
+what is your relationship with mia
+We were good friends with mia. It is horrible what happened.
+stop
+You can once again do anything you wish.
+question mike
+Questioning mike
+do you own knife
+No.
+tell me about mia
+I heard that john hates mia.
+what is your relationship with mia
+Erm... We had quite good relationship.
+stop
+You can once again do anything you wish.
+question thea
+Questioning thea
+do you own knife
+Yes.
+what is your relationship with mia
+We were good friends with mia. It is horrible what happened.
+tell me about mia
+I heard that john hates mia.
+stop
+You can once again do anything you wish.
+accuse john
+You have accused john! Let's see if they're the murderer!
+.
+.
+.
+Good job, Anonymous! You have accused the actual murderer!
+It only took you 32 steps.
+Thanks for playing!
